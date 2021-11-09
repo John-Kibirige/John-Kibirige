@@ -6,7 +6,7 @@ I am currently learning how to program with python and at the same time web deve
 
 I am looking to collaborate on 
 
-How to reach me. 
+Reach me on:
 
 mob.   +256 778 146851 | +256 757 207527 
 email. kibirigejohn005@gmail.com
