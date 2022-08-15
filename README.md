@@ -12,4 +12,6 @@ Reach me on:
 - Email. kibirigejohn005@gmail.com
 - whatsapp: +256 757 207527 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=John-Kibirige)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=John-Kibirige)](https://github.com/anuraghazra/github-readme-stats)
