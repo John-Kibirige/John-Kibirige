@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/kibirigejohn005" target="blank"><img src="https://img.shields.io/twitter/follow/kibirigejohn005?logo=twitter&style=for-the-badge" alt="kibirigejohn005" /></a> </p>
 
-- 🔭 I’m currently undertaking the Microverse software development Bootcamp 
+- 🔭 I’m currently undertaking the Microverse software development boot camp 
 
 - 🌱 I’m currently learning **Tailwindcss & Webpack**
 
 - 👯 I’m looking to collaborate on **Open source Projects**
 
-- 💬 Ask me about **Javascript, CSS and HTML**
+- 💬 Ask me about **Javascript, CSS, and HTML**
 
 - 📫 How to reach me **kibirigejohn005@gmail.com**
 
