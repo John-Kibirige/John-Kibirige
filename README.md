@@ -1,4 +1,3 @@
-Burner to add 
 
 <h1 align="center">Hi 👋, I'm John Kibirige</h1>
 <h3 align="center">An Aspiring Full stack developer from Uganda</h3>
