@@ -1,19 +1,19 @@
 
 <h1 align="center">Hi 👋, I'm John Kibirige</h1>
-<h3 align="center">An Aspiring Full stack developer from Uganda</h3>
+<h3 align="center">A Full stack developer from Uganda</h3>
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" align="right" alt="coding" width="400" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=john-kibirige&label=Profile%20views&color=0e75b6&style=flat" alt="john-kibirige" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kibirigejohn005" target="blank"><img src="https://img.shields.io/twitter/follow/kibirigejohn005?logo=twitter&style=for-the-badge" alt="kibirigejohn005" /></a> </p>
 
-- 🔭 I’m currently undertaking the Microverse software development boot camp 
+- 🔭 I’m almost completing the Microverse software development bootcamp 
 
-- 🌱 I’m currently learning **Tailwindcss & Webpack**
+- 🌱 I’m currently learning the **Ruby on Rails** framework for developing fullstack web applications
 
 - 👯 I’m looking to collaborate on **Open source Projects**
 
-- 💬 Ask me about **Javascript, CSS, and HTML**
+- 💬 Ask me about **Javascript, React, Redux and TailwindCSS**
 
 - 📫 How to reach me **kibirigejohn005@gmail.com**
 
